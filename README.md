@@ -1,5 +1,6 @@
-# Content: Unsupervised Learning
-## Project: Creating Customer Segments
+# Creating Customer Segments (Unsupervised Learning)
+## Udacity Machine Learning Engineer Nanodegree project 
+
 
 ### Install
 
